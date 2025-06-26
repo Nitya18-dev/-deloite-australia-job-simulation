@@ -11,7 +11,7 @@ The script normalizes both data formats so that all telemetry has timestamps in 
 ## 📂 Files
 - `combine_telemetry.py` — The main Python script for data normalization.
 - `README.md` — This documentation file.
-- `sample_output.json` *(optional)* — Example of normalized combined output.
+
 
 ---
 
